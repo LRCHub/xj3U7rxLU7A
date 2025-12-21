@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Fashionable",
+  "base_artist": "SHHis",
+  "createdAt": "2025-12-21T00:32:34.365444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fashionable People",
+      "artist": "Joel Plaskett Emergency",
+      "has_synced": true,
+      "path": "select/01_Fashionable_People_Joel_Plaskett_Emergency.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fashionable",
+      "artist": "Despised Icon",
+      "has_synced": false,
+      "path": "select/02_Fashionable_Despised_Icon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Most Fashionable Faction",
+      "artist": "The Stupendium feat. Harry Callaghan",
+      "has_synced": true,
+      "path": "select/03_The_Most_Fashionable_Faction_The_Stupendium_feat._Harry_Callaghan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Most Fashionable Faction",
+      "artist": "The Stupendium/Harry Callaghan",
+      "has_synced": true,
+      "path": "select/04_The_Most_Fashionable_Faction_The_Stupendium_Harry_Callaghan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Most Fashionable Faction (A Cappella) [feat. Harry Callaghan]",
+      "artist": "The Stupendium feat. Harry Callaghan",
+      "has_synced": false,
+      "path": "select/05_The_Most_Fashionable_Faction_(A_Cappella)_[feat._Harry_Callaghan]_The_Stupendium_feat._Harry_Callaghan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Most Fashionable Faction (feat. Harry Callaghan)",
+      "artist": "The Stupendium feat. Harry Callaghan",
+      "has_synced": true,
+      "path": "select/06_The_Most_Fashionable_Faction_(feat._Harry_Callaghan)_The_Stupendium_feat._Harry_Callaghan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fashionable Activism",
+      "artist": "Enemy Soil",
+      "has_synced": false,
+      "path": "select/07_Fashionable_Activism_Enemy_Soil.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Most Fashionable Faction",
+      "artist": "The Stupendium",
+      "has_synced": true,
+      "path": "select/08_The_Most_Fashionable_Faction_The_Stupendium.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fashionable School Gang Leader",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/09_Fashionable_School_Gang_Leader_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fashionable (remastered version 2006)",
+      "artist": "Despised Icon",
+      "has_synced": false,
+      "path": "select/10_Fashionable_(remastered_version_2006)_Despised_Icon.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fashionable Poverty",
+      "artist": "WEEKEND NACHOS",
+      "has_synced": false,
+      "path": "select/11_Fashionable_Poverty_WEEKEND_NACHOS.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fashionable Cannibal",
+      "artist": "No Bird Sing",
+      "has_synced": false,
+      "path": "select/12_Fashionable_Cannibal_No_Bird_Sing.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Are You Feeling Fashionable",
+      "artist": "Help She Can't Swim",
+      "has_synced": false,
+      "path": "select/13_Are_You_Feeling_Fashionable_Help_She_Can't_Swim.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fashionable",
+      "artist": "Cold War Kids",
+      "has_synced": false,
+      "path": "select/14_Fashionable_Cold_War_Kids.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Most Fashionable Faction (A Cappella) [feat. Harry Callaghan]",
+      "artist": "The Stupendium",
+      "has_synced": false,
+      "path": "select/15_The_Most_Fashionable_Faction_(A_Cappella)_[feat._Harry_Callaghan]_The_Stupendium.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Most Fashionable Faction (feat. Harry Callaghan)",
+      "artist": "The Stupendium, Harry Callaghan",
+      "has_synced": true,
+      "path": "select/16_The_Most_Fashionable_Faction_(feat._Harry_Callaghan)_The_Stupendium,_Harry_Callaghan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fashionable",
+      "artist": "Despised Icon",
+      "has_synced": false,
+      "path": "select/17_Fashionable_Despised_Icon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fashionable",
+      "artist": "SHHis",
+      "has_synced": false,
+      "path": "select/pl_01_Fashionable_SHHis.txt"
+    }
+  ]
+}
