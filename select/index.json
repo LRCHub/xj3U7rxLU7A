@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "Fashionable",
-  "base_artist": "SHHis",
-  "createdAt": "2025-12-21T00:32:34.365444Z",
+  "base_artist": "シーズ",
+  "createdAt": "2026-02-11T08:34:35.157050Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -144,9 +144,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "Fashionable",
-      "artist": "SHHis",
+      "artist": "シーズ",
       "has_synced": false,
-      "path": "select/pl_01_Fashionable_SHHis.txt"
+      "path": "select/pl_01_Fashionable_シーズ.txt"
     }
   ]
 }
